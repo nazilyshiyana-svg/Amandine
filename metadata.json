@@ -1,0 +1,6 @@
+{
+  "name": "Amandine — Fine Jewellery",
+  "description": "Luxury artisanal jewelry atelier offering handcrafted 18k gold, ethical diamonds, and freshwater pearls. Express yourself with jewellery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
